@@ -1,4 +1,4 @@
-# Data and Code repository
+# Code repository
 
 
 ## Article
