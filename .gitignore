@@ -1,0 +1,8 @@
+.Rhistory
+
+# ignore the files in the folder:
+data/*
+
+# but please keep the folder structure
+!data/.keep
+.Rproj.user
